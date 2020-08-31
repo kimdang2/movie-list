@@ -1,0 +1,60 @@
+
+body {
+  font-family: sans-serif, arial;
+  padding: 5px;
+}
+
+.movieTable {
+  width: 30%;
+}
+
+.btn{
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.btn-watch {
+  border-radius: 6px;
+  background-color:#44c767;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family:Arial;
+	font-size:15px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+}
+
+.btn-unwatch{
+	border-radius: 6px;
+  background-color:#d15e4f;
+	border:1px solid #df5854;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family:Arial;
+	font-size:15px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+}
+
+.row{
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.form{
+  padding: 15px;
+}
